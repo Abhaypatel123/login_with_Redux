@@ -1,0 +1,40 @@
+
+.MuiPaper-root > MuiPaper-elevation2 > MuiPaper-rounded{
+    width: 85%;
+    margin: auto;
+    top: 52px;
+    height: 57%;
+}
+
+.home-main{
+    width: 85%;
+    margin: auto;
+    top: 52px;
+    height: 57%;
+}
+
+.loader{
+    height: 100vh;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
